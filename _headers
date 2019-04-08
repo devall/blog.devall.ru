@@ -1,0 +1,43 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-b208795e3dda554b0f11.js>; rel=preload; as=script
+/blog/2018-12-30-2018-in-review/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/tags/test/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/tags/about/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/404/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/blog/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/search/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/tags/
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
+/404.html
+  Link: </webpack-runtime-03a03b610571015c84fd.js>; rel=preload; as=script
+  Link: </styles.6cfed62d5e037e6e987b.css>; rel=preload; as=script
